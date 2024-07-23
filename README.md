@@ -13,33 +13,29 @@ I'm a recent graduate in Computer Science from Ben-Gurion University of the Nege
 - **Other:** RESTful APIs, Multithreading, Client-Server Architecture
 
 ## 📚 Projects
-### [Set Card Game](https://github.com/yourusername/SetCardGame)
+### [Set Card Game](https://github.com/GabrielMagidov/SetCardGame)
 A multithreaded Java game with client-server architecture.
 - **Technologies:** Java, Swing, Multithreading
+  
+### [Phishing Platform](https://github.com/GabrielMagidov/PhishingPlatform)
+A project that mimics a legitimate site selling Steam game codes, sends fake confirmation emails, and uses a Telegram bot to transmit stolen credit card information.
+- **Technologies:** HTML, CSS, JavaScript, Python, Telegram API, Mailjet API
+- **Features:**
+  - **Frontend:** Mimics a real online store with security images, a countdown timer to create urgency, and a product section with a cart and checkout button. Input fields have validation checks to enhance authenticity, and a "Contact Us" section with a real email address is included.
+  - **Backend:** The server waits for a purchase, saves purchase data in a JSON file, creates a trigger file, and sends a confirmation email to the customer with a fake Steam key using Mailjet.
+  - **Telegram Bot:** Manages user registration, waits for the trigger file, and sends purchase data to registered users.
 
-### [React Portfolio](https://github.com/yourusername/ReactPortfolio)
+### [React Portfolio](https://github.com/GabrielMagidov/ReactPortfolio)
 A personal portfolio website built with React.
 - **Technologies:** React, HTML, CSS
 
-### [Linux Shell](https://github.com/yourusername/LinuxShell)
+### [Linux Shell](https://github.com/GabrielMagidov/LinuxShell)
 A simple Linux shell implementation in C.
 - **Technologies:** C, Unix
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/gabriel-magidov-a23019255/))
-- **Email:** [yourname@example.com](mailto:gabrielmag1999@gmail.com)
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📅 Latest Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- **LinkedIn:** ([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/gabriel-magidov-a23019255/))
+- **Email:** (mailto:gabrielmag1999@gmail.com)
 
 ## 🎮 Fun Facts
 - I enjoy playing soccer and am a passionate supporter of FC Barcelona.
