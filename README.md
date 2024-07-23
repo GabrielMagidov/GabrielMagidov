@@ -1,6 +1,1 @@
-A recent graduate in Computer Science from Ben-Gurion University of the Negev
-with a strong passion for technology and software development. Experienced in
-Python programming, web development, and problem-solving. Eager to learn new
-technologies and contribute to dynamic teams in a collaborative environment. I
-possess excellent communication skills, attention to detail, and a proactive approach
-to tackling challenges
+I'm a recent graduate in Computer Science from Ben-Gurion University of the Negev, driven by a deep passion for technology and software development. My expertise lies in Python programming, web development, and innovative problem-solving. I am eager to learn new technologies and thrive in dynamic, collaborative environments. With excellent communication skills, keen attention to detail, and a proactive approach to challenges, I am ready to contribute effectively to any team.
