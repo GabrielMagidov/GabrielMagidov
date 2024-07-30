@@ -47,8 +47,8 @@ A personal portfolio website built with React.
 - **Live Website:** [Click here to see the website](https://gabrielmagidov.github.io/Portfolio/)
 
 ## 📫 How to Reach Me
-- **[LinkedIn:](https://www.linkedin.com/in/gabriel-magidov-a23019255/)**
-- **[Email:](mailto:gabrielmag1999@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/gabriel-magidov-a23019255/)**
+- **[Email](mailto:gabrielmag1999@gmail.com)**
 
 ## 🎮 Fun Facts
 - I enjoy playing soccer and am a passionate supporter of FC Barcelona.
