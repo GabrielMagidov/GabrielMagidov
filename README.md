@@ -51,5 +51,5 @@ A personal portfolio website built with React.
 - **[Email](mailto:gabrielmag1999@gmail.com)**
 
 ## 🎮 Fun Facts
-- I enjoy playing soccer and am a passionate supporter of FC Barcelona.
+- I enjoy playing soccer and a passionate supporter of FC Barcelona.
 - I'm a coffee enthusiast and love trying different brewing methods.
